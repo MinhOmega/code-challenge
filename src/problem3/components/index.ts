@@ -1,0 +1,1 @@
+export { WalletRow } from './WalletRow';
